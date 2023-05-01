@@ -19,7 +19,7 @@ gradle build
 gradle run 
 java -cp build/classes/java/main connectfour.ConnectFour
 ```
-* include the expected output<br />
+* Expected output<br />
 0|0|0|0|0|0|0<br />
 -+-+-+-+-+-+-<br />
 0|0|0|0|0|0|0<br />
